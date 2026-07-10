@@ -56,16 +56,20 @@ Additionally, the system identifies missing skills and utilizes Google's Gemini 
 <img width="1918" height="797" alt="Screenshot 2026-07-10 012126" src="https://github.com/user-attachments/assets/8df0cf1d-cc04-4fea-88fa-773df1226cad" />
 
 ## Candidate Applications
-<img width="1918" height="688" alt="Screenshot 2026-07-10 012349" src="https://github.com/user-attachments/assets/701e8178-0cb3-406c-ba57-792a303c702b" />
+<img width="1345" height="772" alt="image" src="https://github.com/user-attachments/assets/72b3e2a3-109a-4644-b00f-b21efab37ac2" />
+
 
 ### Missing Skills + Learning Roadmap
-<img width="1898" height="825" alt="Screenshot 2026-07-10 012212" src="https://github.com/user-attachments/assets/f0f2acbf-d5e9-46c3-9713-c13ffcce6c74" />
+<img width="1323" height="700" alt="image" src="https://github.com/user-attachments/assets/dcbe8d5b-ee80-4ca0-8337-06828aabc992" />
+
 
 ### To-do checklist
-<img width="1906" height="915" alt="Screenshot 2026-07-10 012229" src="https://github.com/user-attachments/assets/18c25d22-29af-490d-bc36-42f7dd3cf4f7" />
+<img width="1350" height="778" alt="image" src="https://github.com/user-attachments/assets/636f49f5-04b2-40b2-bbec-b5ca8ea0c56e" />
+
+
 
 ### Generate JD specific interview questions
-<img width="1896" height="893" alt="Screenshot 2026-07-10 012242" src="https://github.com/user-attachments/assets/90b5d0ed-44b7-431e-be70-3ce0470a8b81" />
+<img width="1327" height="685" alt="image" src="https://github.com/user-attachments/assets/a8ed7e90-e242-4b19-a6c0-b7853c2a5bd8" />
 
 ## Recruiter Dashboard
 <img width="1918" height="567" alt="image" src="https://github.com/user-attachments/assets/e9a4352f-5ac1-4e31-9ce4-c91c32a75eb1" />
