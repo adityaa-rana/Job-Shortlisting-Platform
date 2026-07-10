@@ -1386,7 +1386,6 @@ The current system provides an end-to-end AI-powered recruitment platform, but s
 ## Planned Improvements
 
 - AI-powered resume rewriting and optimization
-- OCR support for scanned resumes
 - Multi-language resume parsing
 - Resume version management
 - Recruiter analytics dashboard
@@ -1397,11 +1396,8 @@ The current system provides an end-to-end AI-powered recruitment platform, but s
 - Interview scheduling module
 - Calendar integration
 - Docker containerization
-- CI/CD pipeline using GitHub Actions
 - Cloud deployment on AWS or GCP
 - Redis caching for improved performance
-- Elasticsearch-based resume search
-- Admin dashboard for platform management
 
 ---
 
@@ -1439,18 +1435,6 @@ This project provided practical experience in several domains of software engine
 
 ---
 
-# Project Outcome
-
-This project successfully automates the recruitment workflow by combining modern web development practices with Artificial Intelligence and Natural Language Processing.
-
-Unlike traditional Applicant Tracking Systems that rely on exact keyword matching, this platform performs semantic skill matching to identify relevant candidates more accurately.
-
-Recruiters can efficiently manage job postings, analyze resumes, rank applicants, and generate interview preparation resources, while candidates receive ATS scores, detailed skill analysis, and personalized learning roadmaps to improve their profiles.
-
-The modular architecture also makes the platform extensible for future AI enhancements such as advanced recommendation systems, interview assistants, and cloud deployment.
-
----
-
 # Acknowledgements
 
 The following technologies and open-source libraries made this project possible:
@@ -1470,13 +1454,6 @@ The following technologies and open-source libraries made this project possible:
 
 ---
 
-# License
-
-This project is licensed under the MIT License.
-
-You are free to use, modify, and distribute this project under the terms of the MIT License.
-
----
 
 # Author
 
@@ -1492,49 +1469,11 @@ Vellore Institute of Technology, Chennai
 
 Feel free to connect for collaborations, suggestions, or discussions.
 
-- **GitHub:** https://github.com/your-username
-- **LinkedIn:** https://linkedin.com/in/your-profile
-- **Email:** your-email@example.com
+- **GitHub:** https://github.com/adityaa-rana
+- **Email:** adityaranaaa3113@gmail.com
 
 ---
 
-# Repository Overview
-
-```
-AI-Powered Applicant Tracking System
-│
-├── Candidate Portal
-│   ├── Authentication
-│   ├── Resume Upload
-│   ├── Resume Analysis
-│   ├── ATS Score
-│   ├── Job Applications
-│   └── Learning Roadmap
-│
-├── Recruiter Portal
-│   ├── Authentication
-│   ├── Job Management
-│   ├── Applicant Management
-│   ├── Candidate Ranking
-│   └── Interview Questions
-│
-├── AI Pipeline
-│   ├── PDF Parsing
-│   ├── Text Cleaning
-│   ├── Skill Extraction
-│   ├── Skill Normalization
-│   ├── Semantic Matching
-│   ├── ATS Scoring
-│   └── Gemini Roadmap Generation
-│
-└── Database
-    ├── Users
-    ├── Jobs
-    ├── Resumes
-    └── Applications
-```
-
----
 
 # Thank You
 
